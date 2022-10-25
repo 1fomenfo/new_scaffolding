@@ -69,7 +69,7 @@ dev plan >
 ```
 
 cd bin/
-./tfscaffold.sh plan dev us-east-1
+./tfscaffold.sh plan dev us-west-2
 ```
 
 prod plan >
@@ -85,7 +85,7 @@ dev apply >
 ```
 
 cd bin/
-./tfscaffold.sh apply dev us-east-1
+./tfscaffold.sh apply dev us-west-2
 ```
 
 prod apply >
